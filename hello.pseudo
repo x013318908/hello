@@ -1,0 +1,7 @@
+PROGRAM HelloWorld
+  FUNCTION main
+    DECLARE greeting AS STRING = "Hello, world!"
+    OUTPUT greeting
+    RETURN 0
+  END FUNCTION
+END PROGRAM
